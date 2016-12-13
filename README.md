@@ -14,4 +14,5 @@ To build:
 . build/envsetup.sh
 lunch omni_victara-eng
 make -j5 recoveryimage
-
+ 
+by wbdy
