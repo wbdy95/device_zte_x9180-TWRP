@@ -12,7 +12,7 @@ Then run repo sync to check it out.
 To build:
 
 . build/envsetup.sh
-lunch omni_victara-eng
+lunch omni_x9180-eng
 make -j5 recoveryimage
  
 by wbdy
